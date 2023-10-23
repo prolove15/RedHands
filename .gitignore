@@ -1,0 +1,9 @@
+Library
+Logs
+obj
+.vs
+
+.DS_Store
+*.csproj
+*.sln
+user.keystore

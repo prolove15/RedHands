@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7adcf26775ae8de49a505d380939c23f
+timeCreated: 1502980487
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Walibi0615
+  fontNames:
+  - Walibi0615
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
